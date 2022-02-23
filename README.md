@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá. Me chamo Geicy Beatriz, tenho 26 anos e estou iniciando no mundo da programação 👋
 
 <!--
 **geicybeatriz/geicybeatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
