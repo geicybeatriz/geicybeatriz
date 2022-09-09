@@ -1,5 +1,33 @@
-### Olá. Me chamo Geicy Beatriz, tenho 26 anos e estou iniciando no mundo da programação 👋
 
+### Hi, there! I'm Geicy 👋
+***
+
+```javascript
+const aboutMe = {
+  name:"Geicy Beatriz",
+  pronouns:"she" | "her",
+  age:27,
+  habitat:"Brazil",
+  technologies:{
+    frontEnd:["HTML", "CSS", "Javascript", "ReactJs"],
+    backEnd:["NodeJs", "Typescript"],
+    databases:["mongodb", "postgres"],
+    orm:["prisma"],
+    tests:["jest"],
+    devOps:["AWS", "Docker"]
+  }  
+}
+```
+###
+
+### Technologies
+
+#### Front-End
+<div align="center" >
+   <img height="25px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          
+</div>
+###
 <!--
 **geicybeatriz/geicybeatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
