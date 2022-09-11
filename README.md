@@ -1,12 +1,25 @@
 
 ### Hi, there! I'm Geicy 👋
-***
 
+##
+<div>
+  <a href="https://www.linkedin.com/in/geicy-cardoso/" target="_blank">
+    <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+ <a href="mailto:contato.geicybeatriz@gmail.com" target="_blank">
+   <img align="left" alt="Gmail" src="https://img.shields.io/badge/-Gmail-%4643?style=for-the-badge&logo=gmail&logoColor=white">
+ </a>
+</div>
+<br/>
+
+
+##
+<img align="left" alt="cat-coding" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"/>
+<!-- 
 ```javascript
 const aboutMe = {
   name:"Geicy Beatriz",
   pronouns:"she" | "her",
-  age:27,
   habitat:"Brazil",
   technologies:{
     frontEnd:["HTML", "CSS", "Javascript", "ReactJs"],
@@ -20,7 +33,7 @@ const aboutMe = {
 ```
 ###
 
-### Technologies
+### 
 
 #### Front-End
 <div align="center" >
@@ -63,5 +76,5 @@ Here are some ideas to get you started:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geicybeatriz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geicybeatriz&hide=shell&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
-
+ -->
 
