@@ -7,7 +7,7 @@
 <p align="left"> 
   Bem-vindo(a)!
   <br/> 
-  🚀Sou desenvolvedora Web Full-Stack em formação na Driven Education.
+  🚀Sou desenvolvedora Web Full-Stack.
   <br/> 
   🔭 Meus hobbies incluem: jogar videogame, estudar astronomia e assistir animes.
   <br/> 
