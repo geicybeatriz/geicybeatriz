@@ -2,7 +2,7 @@
 ### Oii, sou a Geicy! 👋
 ##
 
-<img align="right" width="365px" height="180px" alt="cat-coding" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" >
+<img align="right" width="365px" height="180px" alt="cat-coding" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" >
 
 <p align="left"> 
   Bem-vindo(a)!
