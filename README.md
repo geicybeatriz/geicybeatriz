@@ -53,18 +53,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/d3d62e01-190e-4fc0-9d18-cb24dadfd5fc.svg)](https://wakatime.com/@d3d62e01-190e-4fc0-9d18-cb24dadfd5fc)
 
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150px" align="center" 
-         src="https://github-readme-stats.vercel.app/api?username=geicybeatriz&show_icons=true&theme=dracula" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150px" align="center" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=geicybeatriz&hide=shell&layout=compact&theme=dracula" />
-  </a>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geicybeatriz&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geicybeatriz&hide=shell&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ###
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geicybeatriz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
