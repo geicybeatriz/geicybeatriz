@@ -7,11 +7,11 @@
 <p align="left"> 
   Bem-vindo(a)!
   <br/> 
-  🚀Sou desenvolvedora Web Full-Stack.
+  🚀Sou desenvolvedora Web Full Stack.
   <br/> 
   🔭 Meus hobbies incluem: jogar videogame, estudar astronomia e assistir animes.
   <br/> 
-  :cat: Também, tenho dois gatinhos: Yato e Sírius. 
+  :cat: Também, tenho três gatões: Yato, Sírius e Dean. 
 </p>
 
 <p align="left">
@@ -32,7 +32,6 @@
 ##
 #### Linguagens e Tecnologias
 
-<img align="left" alt="VSCode" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
